@@ -50,7 +50,7 @@ public class BestController {
     // metodo private che restituisce una lista di oggetti di tipo Songs
     private List<Songs> getBestSongs(){
         List<Songs> songs = new ArrayList<>();
-        songs.add(new Songs(1,"Crown - Neffex"));
+        songs.add(new Songs(1,"Crown - NEFFEX"));
         songs.add(new Songs(2,"Golden Hour - JVKE " ));
         songs.add(new Songs(3,"Rise - The Glitch Mob, Mako, The World Alive" ));
         songs.add(new Songs(4, "Greenlights - Krewella"));
